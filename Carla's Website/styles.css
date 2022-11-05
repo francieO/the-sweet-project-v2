@@ -1,0 +1,204 @@
+body {
+  text-align: center;
+}
+
+#home {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#description-section {
+  font-family: "Poiret One", cursive;
+  color: #a0966e;
+  font-size: 1.5rem;
+  background-color: #ffedf5;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+/* navbar */
+
+.nav-border {
+  /* border: dotted 5px;
+  border-color: pink; */
+}
+.navbar-brand {
+  font-family: "Poiret One", cursive;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #a0966e;
+}
+.nav-items {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  color: lightpink;
+}
+
+.nav-item {
+  margin: auto 25px;
+  color: lightpink;
+}
+.navbar1 {
+  /* position: fixed; */
+  width: 100%;
+  top: 0;
+}
+.sticky {
+  position: fixed;
+}
+
+.header-sub {
+  font-family: "Poiret One", cursive;
+  color: #a0966e;
+  font-weight: bold;
+}
+
+.header-title {
+  font-family: "Poiret One", cursive;
+  color: #a0966e;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.insta-container {
+  margin-right: 20px;
+  margin-left: 20px;
+  /* background-color: pink; */
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.insta {
+  font-family: "Montserrat", sans-serif;
+  color: #a0966e;
+  font-size: 2.5rem;
+  text-decoration: none;
+}
+
+.insta-text {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.insta-background {
+  background-color: lightpink;
+  font-family: "Poiret One", cursive;
+  color: #a0966e;
+  font-weight: bold;
+}
+
+#footer {
+  margin-left: 60%;
+}
+.footer-icons {
+  color: #a0966e;
+}
+
+/* footer section */
+
+.footer-icons {
+  margin: auto 25px;
+}
+
+/* Menu styles */
+
+#menu-section {
+  margin-top: 10px;
+  margin-bottom: 100px;
+  /* background-color: #fce6f3; */
+  margin-right: 50px;
+  margin-left: 50px;
+  /* border: solid 1px;
+  border-color: lightgray; */
+}
+
+/* .menu-header-container {
+  margin-bottom: 75px;
+}
+.menu-header {
+  font-family: 'Poiret One', cursive;
+  color: #a0966e;
+
+} */
+
+.menu-item {
+  text-align: left;
+  font-family: "Poiret One", cursive;
+  color: #a0966e;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.menu-image {
+  width: 250px;
+  border: solid 1px;
+  border-color: lightgray;
+}
+
+.cookies-header {
+  font-family: "Poiret One", cursive;
+  text-align: center;
+}
+
+.menu-cookies {
+  width: 200px;
+}
+
+.menu-cakes {
+  width: 200px;
+}
+.cookies-block {
+  background-color: #f1c9d9;
+}
+
+.menu-cookies-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* order.html */
+
+.order-container {
+  margin-top: 200px;
+}
+
+.form-container {
+  font-family: "Montserrat", sans-serif;
+  color: #a0966e;
+  /* font-weight: bold; */
+  background-color: #faebf3;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+}
+.form-title {
+  text-align: center;
+}
+
+#instagram-section {
+  color: #a0966e;
+  /* background-color: #f781b2; */
+  /* color: white; */
+  font-family: "Montserrat", sans-serif;
+}
+
+#about-section {
+  background-color: #f5dae5;
+}
+
+.about-header {
+  font-family: "Montserrat", sans-serif;
+  color: #a0966e;
+}
+.about-photo {
+}
+.section--hidden {
+  opacity: 0;
+  transform: translateY(8rem);
+}
