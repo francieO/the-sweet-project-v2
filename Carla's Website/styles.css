@@ -10,10 +10,9 @@ body {
 #description-section {
   font-family: "Poiret One", cursive;
   color: #a0966e;
-  font-size: 1.5rem;
+  font-size: 2rem;
   background-color: #ffedf5;
-  margin-bottom: 50px;
-  margin-top: 50px;
+  margin: 50px 350px;
   padding-top: 25px;
   padding-bottom: 25px;
 }
